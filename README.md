@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <!-- To remove C++, use this link : https://github-readme-stats.vercel.app/api/top-langs/?username=yashwankhade&layout=compact&hide=c%2B%2B -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashwankhade&layout=compact&theme=radical)](https://github.com/yashwankhade/github-readme-stats)
 
-<a href="https://twitter.com/CodingIsCoool"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a> <a href='https://www.linkedin.com/in/yash-wankhade-266a98152/'><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:wyash090@gmail.com"><img src="https://img.shields.io/badge/wyash090@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://twitter.com/CodingIsool"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a> <a href='https://www.linkedin.com/in/yash-wankhade-266a98152/'><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:wyash090@gmail.com"><img src="https://img.shields.io/badge/wyash090@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <!--
 
 Here are some ideas to get you started:
