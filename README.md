@@ -1,20 +1,19 @@
 ### Hi there 👋
-
+# I'm Yash 
 <!--
 **yashwankhade/yashwankhade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:-->
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on React based mini projects
+- 🌱 I’m currently learning JavaScript and React
+- 👯 I’m looking to collaborate on React based projects
+- 🤔 I’m looking for help with CSS 
+- 💬 Ask me about JavaScript, CSS
+- 📫 How to reach me: Ping me on LinkedIn
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I still like watching Doreamon episodes :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# I'm Yash 
+
 
 
 
