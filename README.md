@@ -6,7 +6,6 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on React based mini projects
 - 🌱 I’m currently learning JavaScript and React
-- 👯 I’m looking to collaborate on React based projects
 - 🤔 I’m looking for help with React 
 - 💬 Ask me about JavaScript, CSS
 - 📫 How to reach me: Ping me on LinkedIn
