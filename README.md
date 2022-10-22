@@ -5,9 +5,9 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on React based mini projects
-- 🌱 I’m currently learning JavaScript and React
+- 🌱 I’m currently learning about blockchain
 - 🤔 I’m looking for help with React 
-- 💬 Ask me about JavaScript, CSS
+- 💬 Ask me about JavaScript, CSS, React
 - 📫 How to reach me: Ping me on LinkedIn
 - 😄 Pronouns: He/him
  
