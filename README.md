@@ -4,11 +4,10 @@
 **yashwankhade/yashwankhade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on React based mini projects
-- 🌱 I’m currently learning about blockchain
-- 🤔 I’m looking for help with React 
+- 🔭 I’m currently working on web3 projects
+- 🌱 I’m currently learning about blockchain and web3
 - 💬 Ask me about JavaScript, CSS, React
-- 📫 How to reach me: Ping me on LinkedIn
+- 📫 How to reach me: Mail me at wyash090@gmail.com
 - 😄 Pronouns: He/him
  
 
